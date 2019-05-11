@@ -179,6 +179,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CComPortView.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="neuroNicleSW.h" />
     <ClInclude Include="neuroNicleSWDoc.h" />
@@ -188,6 +189,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CComPortView.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="neuroNicleSW.cpp" />
     <ClCompile Include="neuroNicleSWDoc.cpp" />
