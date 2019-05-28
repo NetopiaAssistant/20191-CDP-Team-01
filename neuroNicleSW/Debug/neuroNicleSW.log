@@ -1,6 +1,6 @@
 ﻿  neuroNicleSWView.cpp
 c:\users\김기영\desktop\새 폴더\20191-cdp-team-01\neuroniclesw\neuronicleswview.cpp(454): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\김기영\desktop\새 폴더\20191-cdp-team-01\neuroniclesw\neuronicleswview.cpp(472): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\김기영\desktop\새 폴더\20191-cdp-team-01\neuroniclesw\neuronicleswview.cpp(710): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
-c:\users\김기영\desktop\새 폴더\20191-cdp-team-01\neuroniclesw\neuronicleswview.cpp(711): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+c:\users\김기영\desktop\새 폴더\20191-cdp-team-01\neuroniclesw\neuronicleswview.cpp(474): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김기영\desktop\새 폴더\20191-cdp-team-01\neuroniclesw\neuronicleswview.cpp(712): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+c:\users\김기영\desktop\새 폴더\20191-cdp-team-01\neuroniclesw\neuronicleswview.cpp(713): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
   neuroNicleSW.vcxproj -> C:\Users\김기영\Desktop\새 폴더\20191-CDP-Team-01\neuroNicleSW\Debug\neuroNicleSW.exe
